@@ -7,7 +7,7 @@ Team Mates :
   
 Objectives Of Bot :
 
-  This ChatBot describes the Very frequently asked interview questions asked by an Interviewer/HR.
+  This ChatBot contains very frequently asked questions in interview for hiring candidates.
 
 
 Description about the Chatbot :
