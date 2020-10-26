@@ -12,7 +12,7 @@ Objectives Of Bot :
 
 Description about the Chatbot :
 
-  Firstly, This Chatbot is very helpful for those who are going to appear in interview.This Chatbot contain Very frequently asked in interview questions.This is very helpful for beginners.
+  Firstly, This Chatbot is very helpful for those who are going to appear in interview.This Chatbot contain Very frequently asked in interview questions.This is very helpful for     beginners.
   
   
 Repl.it link : https://Interview-Simulation-Bot.veerababu148.repl.co
